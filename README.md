@@ -1,5 +1,5 @@
 # Crypto, Forex, and Metals Tracker
-#### Video Demo: <https://youtu.be/uoJVk98aUnw>
+
 #### Description:
 
 This project is a Python-based console application designed to track the prices and market information of cryptocurrencies, foreign exchange rates, and precious metals. The program allows users to choose which financial instrument they want to monitor and displays the relevant information in a clear and organized manner using formatted tables and colored text outputs. The primary goal of this project was to combine practical Python programming skills with API integration, data formatting, and user interaction design to create a functional and visually appealing console application.
@@ -11,5 +11,6 @@ When the program is executed, the user is presented with a menu to choose betwee
 The design choices for this project were focused on clarity, usability, and modularity. Each external API interaction is encapsulated within its own function to separate concerns and make the code easier to maintain. The helper functions, such as format_price and build_table, improve code readability and also provide functionality that can be tested independently. I chose to include color-coded output using colorama to enhance the user experience, making it easier to distinguish between different sections of data. Additionally, the program is fully interactive, with clear instructions and input validation to prevent errors and guide the user through the available options.
 
 During the development process, I debated whether to include additional features such as historical price charts, multi-currency conversions, or automatic updates. Ultimately, I decided to keep the project focused on live tracking and conversions to ensure the program remained simple, functional, and testable within the scope of the CS50 final project. This decision allowed me to focus on implementing a robust, well-structured application with clear code and fully functional tests.
+
 
 Overall, this project demonstrates proficiency in Python programming, API integration, data formatting, testing, and user interface design in a console environment. The resulting application is both practical and educational, providing users with real-time financial information in an accessible and visually appealing format.
